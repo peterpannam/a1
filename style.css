@@ -2,5 +2,156 @@
 /* CSS Document */
 
 body {
-	
+    background-image: url("sand.jpg");
+    background-size: cover;
+}
+.balance{
+    padding-left: 40%;
+}
+.contactpadding {
+    padding-left: 30%;
+    padding-bottom: 50px;
+}
+.center {
+    float: left;
+    margin: auto;
+    width: 25%;
+    background-color: khaki;
+    border: double 3px #3646ff;
+}
+.centercontact{
+    float: left;
+    margin: auto;
+    width: 50%;
+    background-color: khaki;
+    border: double 3px #3646ff;
+}
+.contact {
+    margin: auto;
+    width: 100%;
+    background-color: khaki;
+    padding-top: 10px;
+    padding-bottom: 40%;
+
+}
+.rules {
+    margin: auto;
+    width: 100%;
+    background-color: khaki;
+    border: double 3px #3646ff;
+}
+.Announcements {
+    background-color: khaki;
+    padding-left: 26%;
+    padding-right: 4%;
+    margin: 0px;
+    padding-top: 20px;
+}
+.para {
+    background-color: khaki;
+    padding-left: 26%;
+    padding-right: 4%;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.rulespara {
+    background-color: khaki;
+    padding-left: 20%;
+    margin: 0px;
+    padding-top: 10px;
+}
+.table {
+    background-color: white;
+    border: double 3px #3646ff;
+}
+.action{
+    float: right;
+    border: double 3px #3646ff;
+    width: 212px;
+    height: 81px;
+}
+.logo {
+    width: 150px;
+    height: 100px;
+    border: 0;
+    background-color: white;
+}
+span {
+    font-size: medium;
+}
+.centerindex {
+    margin: auto;
+    width: 100%;
+    border: 3px black;
+    padding: 10px;
+    background-color: white;
+}
+.container {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+nav {
+    text-align: center;
+    width: 100%;
+    border: 1px solid gray;
+}
+header {
+    background-image: url("beachNetUnedited.jpg");
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    border: 1px solid gray;
+}
+footer{
+    text-align: center;
+    width: 50%;
+    border: 1px solid gray;
+    padding-left: 25%;
+}
+
+form {
+    background-image: url("5208457834_f7d61d8445_z.jpg");
+    background-size: cover;
+    width: 100%;
+    border: 1px solid gray;
+    font-size: large;
+    text-align: center;
+    padding-bottom: 290px;
+}
+.inputname {
+    padding-top: 100px;
+}
+.signup{
+    border: double 3px #3646ff;
+    background-color: khaki;
+    width: 42%;
+}
+.textbox {
+     width: 200px;
+    height: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+footer {
+    text-align: center;
+    background-color: khaki;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+tr:nth-child(odd) {
+    background-color: white;
+}
+.table {
+    padding-left: 25%;
+    background-color: khaki;
 }
